@@ -1,0 +1,12 @@
+[package]
+name = "azutreo/replica"
+description = "Replication library heavily inspired by MadStudioRoblox/ReplicaService on github."
+license = "MIT"
+authors = ["loleris"]
+version = "1.0.1"
+
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json", "wally.lock", "wally.toml"]
